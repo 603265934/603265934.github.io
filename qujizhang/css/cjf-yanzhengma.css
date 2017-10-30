@@ -1,0 +1,98 @@
+/*
+* @Author: acer
+* @Date:   2017-10-27 15:21:22
+* @Last Modified by:   acer
+* @Last Modified time: 2017-10-27 16:15:35
+*/
+.cjf-yanzhengma{
+	width: 100%;
+	height: 13.1rem;
+}
+.cjf-ztl>img{
+	width: 100%;
+}
+.cjf-tebs{
+	height: .88rem;
+	background: #fad201;
+}
+.cjf-tebs>a>i{
+	width: .8rem;
+	height: .8rem;
+	font-size: .8rem;
+	color: white;
+	line-height: .95rem;
+	float: left;
+}
+.cjf-tebs>p{
+	font-size: .4rem;
+    color: white;
+    line-height: .9rem;
+    margin-left: 2.8rem;
+}
+/* teb栏结束 */
+.yanzhengtishi{
+	width: 70%;
+	height: .2rem;
+	margin-left: 1.2rem;
+	margin-top: .3rem;
+}
+.yanzhengtishi>p{
+	font-size: .25rem;
+	color: #ccc;
+}
+/* 提示结束 */
+.huoqu{
+	width: 100%;
+	height: .6rem;
+	margin-top: .9rem;
+	display: flex;
+	justify-content: space-around;
+}
+.cjf-yzz{
+	width: 40%;
+	height: 100%;
+	float: left;
+}
+.cjf-yzz>input{
+    display: block;	
+    width: 100%;
+    height: 100%;
+	font-size: .35rem;
+	border-radius: .2rem;
+}
+/* 左结束 */
+.cjf-yzy{
+	width: 35%;
+	height: 100%;
+	float: right;
+}
+.hqyzmd{
+
+	width: 100%;
+	height: 100%;
+	border-radius: 1rem;
+	background:#fad201;
+}
+.hqyzmd>a{
+	display: block;
+	font-size: .35rem;
+	color: white;
+	line-height: .65rem;
+	text-align: center;
+}
+/* 下一步开始 */
+.xybd{
+	width: 4rem;
+	height: .8rem;
+	border-radius: 1rem;
+	background:#fad201; 
+	margin-left: 1.7rem;
+	margin-top: .5rem;
+}
+.xybd>a{
+	display: block;
+	font-size: .35rem;
+	color: white;
+	line-height: .7rem;
+	text-align: center;
+}

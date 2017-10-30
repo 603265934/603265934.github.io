@@ -1,0 +1,154 @@
+/*
+* @Author: acer
+* @Date:   2017-10-27 16:47:10
+* @Last Modified by:   acer
+* @Last Modified time: 2017-10-27 17:13:36
+*/
+.cjf-zhaq{
+	width: 100%;
+	height: 13.1rem;
+}
+.cjf-ztl>img{
+	width: 100%;
+}
+.cjf-tebs{
+	height: .88rem;
+	background: #fad201;
+}
+.cjf-tebs>a>i{
+	width: .8rem;
+	height: .8rem;
+	font-size: .8rem;
+	color: white;
+	line-height: .95rem;
+	float: left;
+}
+.cjf-tebs>p{
+	font-size: .4rem;
+    color: white;
+    line-height: .9rem;
+    margin-left: 3.1rem;
+}
+/* teb栏结束 */
+.cjf-dlmima{
+	height: .88rem;
+}
+.cjf-dlmima>p{
+	font-size: .33rem;
+    color:#fad201;
+    line-height: 2.5rem;
+    margin-left: .3rem;
+}
+.cjf-khz{
+	width: 60%;
+	height: .88rem;
+	border-bottom: 2px solid #fad201;
+	float: right;
+	margin-top: -1.7rem;
+	margin-right: .4rem;
+}
+.cjf-khz>input{
+    display: block;
+	width: 4.6rem;
+	height: .7rem;	
+	margin-left: 0rem;
+	font-size: .3rem;
+	border-radius: .2rem;
+}
+/* 再次输入 */
+.cjf-zcsrdlmm{
+	margin-top: .3rem;
+	height: .88rem;
+}
+.cjf-zcsrdlmm>p{
+	font-size: .33rem;
+    color:#fad201;
+    line-height: 2.5rem;
+    margin-left: .3rem;
+}
+.cjf-khz{
+	width: 60%;
+	height: .88rem;
+	border-bottom: 2px solid #fad201;
+	float: right;
+	margin-top: -1.7rem;
+	margin-right: .4rem;
+}
+.cjf-khz>input{
+    display: block;
+	width: 4.6rem;
+	height: .7rem;	
+	margin-left: 0rem;
+	font-size: .3rem;
+	border-radius: .2rem;
+}
+/* 登录密码结束 */
+.cjf-zfmima{
+	height: .88rem;
+	margin-top: .3rem;
+}
+.cjf-zfmima>p{
+	font-size: .33rem;
+    color:#fad201;
+    line-height: 2.5rem;
+    margin-left: .3rem;
+}
+.cjf-khz{
+	width: 60%;
+	height: .88rem;
+	border-bottom: 2px solid #fad201;
+	float: right;
+	margin-top: -1.7rem;
+	margin-right: .4rem;
+}
+.cjf-khz>input{
+    display: block;
+	width: 4.6rem;
+	height: .7rem;	
+	margin-left: 0rem;
+	font-size: .3rem;
+	border-radius: .2rem;
+}
+/* 再次输入 */
+.cjf-zcsrzfmm{
+	margin-top: .3rem;
+	height: .88rem;
+}
+.cjf-zcsrzfmm>p{
+	font-size: .33rem;
+    color:#fad201;
+    line-height: 2.5rem;
+    margin-left: .3rem;
+}
+.cjf-khz{
+	width: 60%;
+	height: .88rem;
+	border-bottom: 2px solid #fad201;
+	float: right;
+	margin-top: -1.7rem;
+	margin-right: .4rem;
+}
+.cjf-khz>input{
+    display: block;
+	width: 4.6rem;
+	height: .7rem;	
+	margin-left: 0rem;
+	font-size: .3rem;
+	border-radius: .2rem;
+}
+/* 登录密码结束 */
+.cjf-qr{
+	width: 4rem;
+	height: .8rem;
+	border-radius: 1rem;
+	background:#fad201; 
+	margin-left: 1.8rem;
+	margin-top: 1.4rem;
+}
+.cjf-qr>a{
+	display: block;
+	font-size: .35rem;
+	color: white;
+	line-height: .7rem;
+	text-align: center;
+}

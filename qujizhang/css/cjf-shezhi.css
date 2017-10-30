@@ -1,0 +1,95 @@
+/*
+* @Author: acer
+* @Date:   2017-10-27 16:18:36
+* @Last Modified by:   acer
+* @Last Modified time: 2017-10-27 16:45:17
+*/
+.cjf-shezhi{
+	width: 100%;
+	height: 13.1rem;
+}
+.cjf-ztl>img{
+	width: 100%;
+}
+.cjf-tebs{
+	height: .88rem;
+	background: #fad201;
+}
+.cjf-tebs>a>i{
+	width: .8rem;
+	height: .8rem;
+	font-size: .8rem;
+	color: white;
+	line-height: .95rem;
+	float: left;
+}
+.cjf-tebs>p{
+	font-size: .4rem;
+    color: white;
+    line-height: .9rem;
+    margin-left: 3.1rem;
+}
+/* teb栏结束 */
+.cjf-zhaq{
+	width: 6rem;
+	height: .8rem;
+	border-radius: 1rem;
+	background:#fad201; 
+	margin-left: .7rem;
+	margin-top: .5rem;
+}
+.cjf-zhaq>a{
+	display: block;
+	font-size: .35rem;
+	color: white;
+	line-height: .7rem;
+	text-align: center;
+}
+/* 账号安全结束 */
+.cjf-kf{
+	width: 6rem;
+	height: .8rem;
+	border-radius: 1rem;
+	background:#fad201; 
+	margin-left: .7rem;
+	margin-top: .3rem;
+}
+.cjf-kf>a{
+	display: block;
+	font-size: .35rem;
+	color: white;
+	line-height: .7rem;
+	text-align: center;
+}
+/* 客服结束 */
+.cjf-gy{
+	width: 6rem;
+	height: .8rem;
+	border-radius: 1rem;
+	background:#fad201; 
+	margin-left: .7rem;
+	margin-top: .3rem;
+}
+.cjf-gy>a{
+	display: block;
+	font-size: .35rem;
+	color: white;
+	line-height: .7rem;
+	text-align: center;
+}
+/* 关于结束 */
+.cjf-tcdl{
+	width: 6rem;
+	height: .8rem;
+	border-radius: 1rem;
+	background:#fad201; 
+	margin-left: .7rem;
+	margin-top: .3rem;
+}
+.cjf-tcdl>a{
+	display: block;
+	font-size: .35rem;
+	color: white;
+	line-height: .7rem;
+	text-align: center;
+}

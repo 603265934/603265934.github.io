@@ -1,0 +1,63 @@
+/*
+* @Author: acer
+* @Date:   2017-10-27 17:14:47
+* @Last Modified by:   acer
+* @Last Modified time: 2017-10-27 17:46:15
+*/
+.cjf-kefu{
+	width: 100%;
+	height: 13.1rem;
+}
+.cjf-ztl>img{
+	width: 100%;
+}
+.cjf-tebs{
+	height: .88rem;
+	background: #fad201;
+}
+.cjf-tebs>a>i{
+	width: .8rem;
+	height: .8rem;
+	font-size: .8rem;
+	color: white;
+	line-height: .95rem;
+	float: left;
+}
+.cjf-tebs>p{
+	font-size: .4rem;
+    color: white;
+    line-height: .9rem;
+    margin-left: 3.4rem;
+}
+/* teb栏结束 */
+.cjf-ydwt{
+	width: 6rem;
+	height: .8rem;
+	border-radius: 1rem;
+	background:#fad201; 
+	margin-left: .7rem;
+	margin-top:2.5rem;
+}
+.cjf-ydwt>a{
+	display: block;
+	font-size: .35rem;
+	color: white;
+	line-height: .7rem;
+	text-align: center;
+}
+/* 遇到问题结束 */
+.cjf-fk{
+	width: 6rem;
+	height: .8rem;
+	border-radius: 1rem;
+	background:#fad201; 
+	margin-left: .7rem;
+	margin-top: .3rem;
+}
+.cjf-fk>a{
+	display: block;
+	font-size: .35rem;
+	color: white;
+	line-height: .7rem;
+	text-align: center;
+}
